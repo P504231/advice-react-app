@@ -1,3 +1,13 @@
+In this project i learn how to use API 
+
+👋 Hi, I’m Praveen Prakash student of NIT Jamshedpur
+👀 I’m interested in coding,chess
+🌱 I’m currently learning MERN stack
+💞️ I’m looking to collaborate on full stack website
+📫 you can reach me on LinkedIn :-https://www.linkedin.com/in/praveen-prakash-01b218210/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
